@@ -220,7 +220,7 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {76458212,171117943,95876809},--Sudo users
+    sudo_users = {130109494},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -240,7 +240,7 @@ no chanel
     help_text = [[
 Commands list :
 !kick [username|id]
-شما میتوانید باریپلای فرد مورد نظر را کیک کنید!
+شما مانید باریپلای فرد مورد نظر را کیک کنید!
 !ban [ username|id]
 شما میتوانید با ریپلای فرد مورد نظر را بن کنید!
 !unban [id]
