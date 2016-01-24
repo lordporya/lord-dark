@@ -228,7 +228,7 @@ function create_config( )
 An advance Administration bot based on megatron 
 
 Admins
-@Amirhossein0263
+@lordporya1
 Special thanks to
 awkward_potato
 Siyanew
