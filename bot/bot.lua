@@ -220,7 +220,7 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {lordporya 97662544},--Sudo users
+    sudo_users = {iran_joker 152643555},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -240,11 +240,11 @@ no chanel
     help_text = [[
 Commands list :
 !kick [username|id]
-کیک کردن و فرو کردن در کون پی جی ای
+ پی جی ای
 !ban [ username|id]
-شما میتونید ریپلایهم بکنید تو کون اون
+ ریپلایهم بکنید تو کون اون
 !unban [id]
-از کون اون یرون بیاریدلای فرد مورد نظر را از بن خارج کنید!
+از کون اون یرون بیاریدلای فرد مور
 !who
 لیست افراد گروه
 !modlist
